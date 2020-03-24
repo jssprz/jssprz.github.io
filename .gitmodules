@@ -1,0 +1,3 @@
+[submodule "covid19_cuba"]
+	path = covid19_cuba
+	url = https://github.com/jssprz/covid19_cuba.git
