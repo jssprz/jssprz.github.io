@@ -1,3 +1,6 @@
 [submodule "covid19_cuba"]
 	path = covid19_cuba
 	url = https://github.com/jssprz/covid19_cuba.git
+[submodule "semantic-memes-docs"]
+	path = semantic-memes-docs
+	url = https://github.com/jssprz/semantic-memes-docs.git
