@@ -6,4 +6,4 @@
 	url = https://github.com/jssprz/semantic-memes-docs.git
 [submodule "imap01-docs-site"]
 	path = imap01-docs
-	url = git@github.com:jssprz/imap01-docs-site.git
+	url = https://github.com/jssprz/imap01-docs-site.git
